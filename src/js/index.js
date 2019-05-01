@@ -102,7 +102,7 @@ if(prevCanvas !== null) {
         transformTool
     });
 } else {
-    paint.createCanvas(12);
+    paint.createCanvas(32);
 }
 
 new StorageHandler({
